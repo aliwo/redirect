@@ -9,7 +9,7 @@ export default {
 <head><meta charset="utf-8"></head>
 <body>
 <script>
-  alert(${JSON.stringify(message)});
+  // alert(${JSON.stringify(message)});
   window.location.replace(${JSON.stringify(destinationURL)});
 </script>
 </body>
